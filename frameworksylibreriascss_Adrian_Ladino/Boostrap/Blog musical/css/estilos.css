@@ -1,0 +1,41 @@
+#logo img{
+  height: 100px;
+}
+
+#redes{
+  height: 100px;
+}
+ .menu{
+   background-color: #E9967A;
+   text-align: center;
+   font-size: 18px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+ #cs{
+   height: 40%;
+   width: 18%;
+   float: left;
+ }
+
+ #sk{
+   height: 40%;
+   width: 18%;
+   float: right;
+ }
+
+ #vid{
+   float: right;
+ }
+
+ #search {
+   vertical-align: top;
+ }
